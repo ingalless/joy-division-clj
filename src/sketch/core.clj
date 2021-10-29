@@ -4,7 +4,7 @@
             [quil.middleware :as m]))
 
 (q/defsketch sketch
-  :title "You spin my circle right round"
+  :title "Sketch"
   :size [500 500]
   :draw dynamic/draw
   :features [:keep-on-top])
