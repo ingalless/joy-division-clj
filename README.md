@@ -1,7 +1,7 @@
-# Tiled Lines
+# Joy Division
 
-The Tiled Lines lesson from [Generative Artistry Lesson 1](https://generativeartistry.com/tutorials/tiled-lines/)
+The Joy Division lesson from [Generative Artistry Lesson 2](https://generativeartistry.com/tutorials/joy-division/)
 
 ## Example
 
-![Tiled Lines](./sketch.png)
+![Joy Division](./sketch.png)
